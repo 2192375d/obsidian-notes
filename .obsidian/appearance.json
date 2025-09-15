@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Blue Topaz",
+  "accentColor": "#89b8ec",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "resume",
+    "embed-indent"
+  ]
+}

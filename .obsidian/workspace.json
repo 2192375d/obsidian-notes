@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "cea53bc4cec8b4be",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d99523df4ec230d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84e0434b21a7a0a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secret MOC/plans MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "plans MOC"
+            }
+          },
+          {
+            "id": "57db179f2fb7fa95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secret notes/2025F semester time arrangement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025F semester time arrangement"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "125a0418053fd863",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c35a805faf605e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "576321ac8b9718ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f218f508a0785599",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e953ae643c671e8b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6bce55fb43bea56b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cb16423a15a26dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e57af4e05bfd7271",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "62c2e54adbdb06c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ec96509afc0e830d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fa9609443c44c86e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "57db179f2fb7fa95",
+  "lastOpenFiles": [
+    "secret MOC/plans MOC.md",
+    "secret MOC/to talk MOC.md",
+    "secret notes/Rawad (CSCA48 prof) to talk.md",
+    "secret notes/Sotirios (STAB52 prof) to talk.md",
+    "secret MOC/temp.md",
+    "secret notes/2025F semester time arrangement.md",
+    "secret notes/2025F course plans.md",
+    "secret notes/things to setup in Arch Linux.md",
+    "secret notes/todos after 2025S semester.md",
+    "secret MOC/Japanese MOC.md",
+    "secret notes/Language Exchange.md",
+    "MOC/coop MOC.md",
+    "main notes/CUPE application 2025F.md",
+    "main notes/COPB51 PRA1.md",
+    "main notes/2025F semester time arrangement.md",
+    "main notes/floating point systems and numbers.md",
+    "main notes/CSCC37 notes.md",
+    "MOC/others MOC.md",
+    "secret MOC/Github Personal Access Token.md",
+    "secret MOC/aseprite bundle.md",
+    "random stuffs/Obsidian Latex Suite cheat sheet.md",
+    "random stuffs/Google Hotkeys.md",
+    "random stuffs/DST notes.md",
+    "MOC/math MOC.md",
+    "MOC/temp.excalidraw.md",
+    "MOC/computer science MOC.md",
+    "Untitled 1",
+    "secret notes",
+    "images/Pasted image 20250908195646.png",
+    "secret MOC",
+    "images/Pasted image 20250811210754.png",
+    "images/Ink/Drawing",
+    "images/Ink/Writing",
+    "images/Ink",
+    "images/Pasted Image 20250803013024_308.png",
+    "images/Pasted Image 20250803012323_635.png",
+    "images/>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.png",
+    "images/Pasted Image 20250729154710_601.png",
+    "images/Pasted Image 20250729144344_164.png",
+    "images/Pasted image 20250729144220.png",
+    "images/Pasted Image 20250729142805_510.png",
+    "templates",
+    "MOC",
+    "images/Pasted image 20250726184951.png",
+    "main notes",
+    "Excalidraw"
+  ]
+}

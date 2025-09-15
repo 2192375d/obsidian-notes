@@ -1,0 +1,13 @@
+/* Indent embedded note content (reading view and live preview) */
+.markdown-preview-view .markdown-embed-content,
+.markdown-source-view.mod-cm6 .cm-embed-block .markdown-embed-content {
+  padding-left: 2em; /* Adjust indent as needed */
+}
+
+/* Prevent indentation on embed titles (reading view and live preview) */
+.markdown-preview-view .markdown-embed-title,
+.markdown-source-view.mod-cm6 .cm-embed-block .markdown-embed-title {
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
+
