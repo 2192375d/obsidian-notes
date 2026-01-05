@@ -13,11 +13,11 @@ office hour: Monday, 12h-13h, MW308
 textbook: Edito B2 - Edition Didier 2022-2024
 
 # mark distribution
-- unit test 1: 15%
-- midterm test 2: 20%
-- unit test 3: 10%
-- individual in person oral interview: 15%
-- participation: 20%
+- unit test 1: 15% (70 out 100 is 10.50%)
+- midterm test 2: 20% 
+- unit test 3: 10% ()
+- individual in person oral interview: 15% (77.5 out of 100 is 11.63%)
+- participation: 20% (79 out of 100 is 15.83%)
 - end of term in person oral presentation: 20%
 
 (note that there is no final exam)

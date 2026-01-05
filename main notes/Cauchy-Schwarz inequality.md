@@ -5,10 +5,12 @@ last_modified: Tuesday 22nd July 2025 13:08
 tags:
   - probability/moment/inequality
   - theorem
+  - math/linear-algebra
 course:
   - STAB52
 LEC: 10
 ---
+# Cauchy-Schwarz inequality (probability)
 Let $X,Y$ be RVs, then the expectation of their product is the geometric average of their 2nd moments
 $$
 |E(XY)|\leq \sqrt{ E(X^2)E(Y^2) }
@@ -24,3 +26,6 @@ $$
 \rho_{XY}=\frac{Cov(X,Y)}{\sqrt{ V(X)V(Y) }}
 $$
 , ranges in $[-1,1]$
+
+# Cauchy-Schwarz inequality (linear algebra)
+Let $V$ be an inner product space and let $\mathbf{v},\mathbf{w}\in V$, then $|\langle \mathbf{v},\mathbf{w}\rangle|\leq ||\mathbf{v}||||\mathbf{w}||$

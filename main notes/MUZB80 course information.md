@@ -17,7 +17,7 @@ prof: Tony Leong
 # mark distribution
 - Participation: 10%
 - HW1: 10% _done_
-- HW2: 15%
-- HW3: 15%
+- HW2: 15% _done_
+- HW3: 15% _skipped_
 - theory exam: 25%
 - final composition: 25%

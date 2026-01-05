@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2d99523df4ec230d",
+        "id": "734f4ed6f2d55ad7",
         "type": "tabs",
         "children": [
           {
-            "id": "84e0434b21a7a0a3",
+            "id": "eef736ccfc24a022",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secret MOC/plans MOC.md",
+                "file": "secret MOC/temp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plans MOC"
-            }
-          },
-          {
-            "id": "57db179f2fb7fa95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "secret notes/2025F semester time arrangement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025F semester time arrangement"
+              "title": "temp"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "6bce55fb43bea56b",
@@ -109,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "main notes/Untitled.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -155,81 +142,83 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
-                "showSearch": false,
+                "file": "main notes/language closed properties through FSA method.md",
+                "followCursor": true,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of language closed properties through FSA method"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "bases:Create new base": false
     }
   },
-  "active": "57db179f2fb7fa95",
+  "active": "eef736ccfc24a022",
   "lastOpenFiles": [
-    "secret MOC/plans MOC.md",
-    "secret MOC/to talk MOC.md",
-    "secret notes/Rawad (CSCA48 prof) to talk.md",
-    "secret notes/Sotirios (STAB52 prof) to talk.md",
+    "images/bee's adventure 2025-12-12 19.09.07.excalidraw.md",
+    "images/bee's adventure 2025-12-17 10.44.52.excalidraw.md",
+    "main notes/bee's adventure.md",
     "secret MOC/temp.md",
-    "secret notes/2025F semester time arrangement.md",
-    "secret notes/2025F course plans.md",
-    "secret notes/things to setup in Arch Linux.md",
-    "secret notes/todos after 2025S semester.md",
-    "secret MOC/Japanese MOC.md",
-    "secret notes/Language Exchange.md",
-    "MOC/coop MOC.md",
-    "main notes/CUPE application 2025F.md",
-    "main notes/COPB51 PRA1.md",
-    "main notes/2025F semester time arrangement.md",
-    "main notes/floating point systems and numbers.md",
-    "main notes/CSCC37 notes.md",
-    "MOC/others MOC.md",
-    "secret MOC/Github Personal Access Token.md",
-    "secret MOC/aseprite bundle.md",
-    "random stuffs/Obsidian Latex Suite cheat sheet.md",
-    "random stuffs/Google Hotkeys.md",
-    "random stuffs/DST notes.md",
+    "main notes/MATB24 course information.md",
     "MOC/math MOC.md",
-    "MOC/temp.excalidraw.md",
-    "MOC/computer science MOC.md",
+    "main notes/unitary matrix.md",
+    "main notes/field.md",
+    "main notes/adjoint.md",
+    "main notes/projection.md",
+    "main notes/Jordan canonical form.md",
+    "images/Pasted image 20251212214354.png",
+    "main notes/CSCB36 notes.md",
+    "main notes/Cayley Hamilton theorem.md",
+    "main notes/function.md",
+    "main notes/cartesian product.md",
+    "main notes/orthogonal matrix.md",
+    "main notes/fundamental theorem of algebra.md",
+    "main notes/spectral theorem.md",
+    "main notes/diagonalization.md",
+    "main notes/orthonormal vectors.md",
+    "main notes/game dev plans.md",
+    "main notes/bullet pattern note STG games.md",
+    "images/game dev-stg 2025-09-24 12.45.34.excalidraw.md",
+    "main notes/MATB24 midterm.md",
+    "main notes/regex properties.md",
+    "main notes/language operation.md",
+    "images/Pasted image 20251207200704.png",
+    "images/Pasted image 20251207200604.png",
+    "images/Pasted image 20251207184911.png",
+    "algebraic",
+    "images/Pasted image 20251117202325.png",
+    "images/Pasted image 20251006194942.png",
+    "images/Pasted image 20251111103114.png",
+    "images/Pasted image 20251110204138.png",
+    "images/Pasted image 20251110203204.png",
+    "images/Pasted image 20251110203144.png",
+    "main notes/Untitled.base",
+    "main notes/Untitled 1.base",
+    "main notes/Untitled 2.base",
     "Untitled 1",
     "secret notes",
-    "images/Pasted image 20250908195646.png",
     "secret MOC",
-    "images/Pasted image 20250811210754.png",
     "images/Ink/Drawing",
     "images/Ink/Writing",
-    "images/Ink",
-    "images/Pasted Image 20250803013024_308.png",
-    "images/Pasted Image 20250803012323_635.png",
-    "images/>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.png",
-    "images/Pasted Image 20250729154710_601.png",
-    "images/Pasted Image 20250729144344_164.png",
-    "images/Pasted image 20250729144220.png",
-    "images/Pasted Image 20250729142805_510.png",
-    "templates",
-    "MOC",
-    "images/Pasted image 20250726184951.png",
-    "main notes",
-    "Excalidraw"
+    "images/Ink"
   ]
 }

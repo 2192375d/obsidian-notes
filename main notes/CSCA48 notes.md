@@ -8,7 +8,7 @@ tags: []
 ## CSCA48 chapter 4
 [[linear search]]
 [[binary search algorithm]]
-[[Big O notation]]
+[[big O notation]]
 [[problem complexity]]
 [[bubble sort]]
 [[quick sort]]

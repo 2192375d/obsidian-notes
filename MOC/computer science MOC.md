@@ -15,9 +15,9 @@ tags:
 
 # course notes
 [[CSCA48 notes]]
-
 [[CSCB36 notes]]
-
 [[CSCB07 notes]]
-
 [[CSCC37 notes]]
+
+# other CS stuffs
+[[fish shell notes]]

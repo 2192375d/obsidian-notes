@@ -1,15 +1,40 @@
 [[CSCC37 course information]]
+[[CSCC37 midterm]]
 
 ## CSCC37 LEC2
 (nothing new)
 
 ## CSCC37 LEC3
 [[numerical analysis]]
+(everything chatper 1)
+
+## CSCC37 LEC4
+
+(CSCC37 TUT4 stuffs)
+- $\mathbb{R}^+$: set of positive real numbers
+- $\mathbb{R_{0}}^+$: set of positive real numbers with $0$
+- $\mathbb{N}_{k}$: set of natural numbers $\geq k$
+- $\mathcal{F}$: set of functions $\{ F:\mathbb{N}_{k}\to\mathbb{R}_{0}^+ \}$
+[[big O notation]]
+[[big Omega notation]]
+[[big Theta notation]]
+
+## CSCC37 LEC6
+[[Gaussian elimination]]
+[[numerical singularity]]
+[[Gaussian elimination complexity]]
+[[Gaussian elimination round off error analysis]]
+[[misleading residual example]]
+
+## CSCC37 LEC7
+[[matrix condition]]
+[[iterative refinement]]
+
 
 # prestudied stuffs
 
 ## CSCC37 tb chapter 1
-[[Big O notation]]
+[[big O notation]]
 
 [[data error and computational error]]
 [[truncation error and rounding error]]
@@ -17,12 +42,15 @@
 [[condition of error]]
 [[backward error analysis]] (lazy to write stuffs)
 [[floating point systems and numbers]]
-[[normalization of floating point system]]
+[[normalized floating point system]]
 [[properties of floating point system]]
 [[floating point rounding]]
 [[machine precision]] ($\epsilon_{mach}$)
 [[exceptional values]]
 [[floating point arithmetic]] (empty for now)
+
+important notes
+- for converting integers, count backwards, for converting values < 1.0, count backwards.
 
 ## CSCC37 tb chapter 2
 [[singularity and nonsingularity]]
@@ -30,8 +58,8 @@
 [[permutation matrix]]
 [[diagonal matrix scalling]] (empty for now)
 (all that stupid Gaussian elimination stuffs, too boring)
-[[vector norm]]
-[[vector norm properties]]
+[[norm]]
+[[norm properties]]
 [[matrix norms]]
 [[matrix norms properties]]
 [[matrix condition]]

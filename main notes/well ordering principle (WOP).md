@@ -14,4 +14,3 @@ Any nonempty subset $A$ of $\mathbb{N}$ contains a __minimum__ element. In other
 $$
 \forall A\subset \mathbb{N}, A\neq \emptyset, \exists a\in A \text{ S.T. } \forall a'\in A,\ a\leq a'
 $$
-

@@ -28,7 +28,7 @@ $$
 $$
 
 ## prefix
-A sequence $\sigma$ is a __prefix__ of sequence $\tau$, if either $\sigma$ is finite and $\exists \sigma'$ S.T. $\sigma\circ\sigma'=\tau$ or $\sigma$ is infinite and $\sigma=\tau$
+A sequence $\sigma$ is a __prefix__ of sequence $\tau$, if either ($\sigma$ is finite and $\exists \sigma'$ S.T. $\sigma\circ\sigma'=\tau$) or ($\sigma$ is infinite and $\sigma=\tau$)
 if $\sigma$ is a prefix of $\tau$ and $\sigma\neq \tau$, then $\sigma$ is a __proper prefix__ of $\tau$
 
 ## suffix

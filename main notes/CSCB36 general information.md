@@ -22,9 +22,9 @@ office hour: Monday 11-12, Wednesday 11-12
 - logic: weeks 10-12
 
 # mark distribution
-- selfie assignment: 2%
+- selfie assignment: 2% _done_
 - intro assignment: 2% _done_
-- GenAI assignment: 6%
+- GenAI assignment: 6% _available until 9/29_
 - mid term: 40%
 - class contribution: 10%
 - final exam: 40%

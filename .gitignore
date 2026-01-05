@@ -1,2 +1,8 @@
 secret notes/
 secret MOC/
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env

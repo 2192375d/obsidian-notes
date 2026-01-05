@@ -71,7 +71,7 @@ tags:
 [[variance and covariance properties]]
 
 # STAB52 LEC9
-[[conditional expected value]] 
+[[conditional expected value]]
 [[conditional expected value as RV]]
 [[marginal distribution of multivariate normal]]
 [[normal linear transformation]]

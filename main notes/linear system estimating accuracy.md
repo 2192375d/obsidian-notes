@@ -21,4 +21,18 @@ $$
 \frac{||\hat{x}-x||}{||x||}\leq cond(A)\frac{||E||}{||A||}
 $$
 
-(to be proven...)
+
+## proof (?)
+Note that $A\hat{x}=b-r$ and $Ax=b$, 
+Thus, $A(x-\hat{x})=r\iff(x-\hat{x})=A^{-1}r$
+We get, $||x-\hat{x}||=||A^{-1}r||\leq ||A^{-1}||\ ||r||$ (\*)
+
+Also note that $b=Ax \iff||b||=||Ax|| \iff ||b||\leq ||A||\ ||x||$ (\*\*)
+Combining (\*) and (\*\*), we get 
+$$
+\begin{align}
+&||x-\hat{x}||\leq ||A^{-1}|| \ ||r|| \\
+\iff& \frac{||x-\hat{x}||}{||A|| \ ||x||}\leq \frac{||A^{-1}|| \ ||r||}{||b||} \\
+\iff& \frac{||x-\hat{x}||}{||x||}\leq||A||\ ||A^{-1}|| \frac{||r||}{||b||} = cond(A) \frac{||r||}{||b||}
+\end{align}
+$$

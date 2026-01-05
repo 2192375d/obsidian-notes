@@ -9,7 +9,7 @@ course:
   - STAB52
 LEC: 10
 ---
-Let $X$ be an RV and $g(x)$ be a convex("up concaving") function, then
+Let $X$ be an RV and $g(x)$ be a convex ("up concaving") function, then
 $$
 E(g(X))\geq g(E(X))
 $$

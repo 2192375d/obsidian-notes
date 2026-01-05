@@ -3,7 +3,8 @@ title: subjonctif
 created: Tuesday 2nd September 2025 11:02
 last_modified: Tuesday 2nd September 2025 11:02
 aliases: []
-tags: []
+tags:
+  - French
 course:
   - FREB01
 LEC: 1

@@ -24,4 +24,4 @@ $$
 x=(AP)^{-1}b=P^{-1}A^{-1}b=P^T(A^{-1}b)
 $$
 
-Note that for a square matrix $A$, $AP$ is just $A$ with it's rows rearranged to an order based on $P$
+Note that for a square matrix $A$, $PA$ is just $A$ with row swap

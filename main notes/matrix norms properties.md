@@ -4,8 +4,7 @@ created: Wednesday 27th August 2025 13:30
 last_modified: Wednesday 27th August 2025 13:30
 aliases: []
 tags:
-  - math/linear-algebra/matrix
-  - math/linear-algebra/norm
+  - math/linear-algebra/inner-product/norm
 course: CSCC37
 ---
 # matrix norm properties

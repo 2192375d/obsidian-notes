@@ -7,7 +7,17 @@ tags:
   - calculus
 ---
 
-[[convergence tests]]
+# convergence tests
+[[divergence test]]
+[[geometric series test]]
+[[integral test]]
+[[p-series test]]
+[[comparison test]]
+[[alternating series test]]
+[[aboslute convergence test]]
+[[ratio test]]
+
+
 
 # MATB41
 ## MATB41 LEC5

@@ -12,10 +12,12 @@ A __relation__ $R$ between sets $A$ and $B$ is a subset of the $A\times B$:
 $$
 R\subset A\times B
 $$
+
 Same goes with relation between sets $A_{1},\dots,A_{n}$, where the relation $R$ is a set S.T
 $$
 R\subset A_{1}\times \dots \times A_{n}
 $$
+
 ## arity
 Consider $R$ as a relation between sets $A_{1},\dots,A_{n}$, then the __arity__ of the $R$ is n.
 

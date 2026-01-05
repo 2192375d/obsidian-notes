@@ -8,7 +8,7 @@ tags:
 course: CSCC37
 ---
 # solution residual
-The __residual vector__ of an approximate solution $\hat{x}$ to the $x\times n$ linear system $Ax=b$ is defined as
+The __residual vector__ $r$ of an approximate solution $\hat{x}$ to the $n\times n$ linear system $Ax=b$ is defined as
 $$
 r=b-A \hat{x}
 $$

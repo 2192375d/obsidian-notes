@@ -41,6 +41,27 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "[\"course\":cscb07]",
+      "color": {
+        "a": 1,
+        "rgb": 15181478
+      }
+    },
+    {
+      "query": "[\"tags\":music] ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "[\"tag\":MOC]",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.40809614700590513,
+  "scale": 0.08430605163278862,
   "close": false
 }
